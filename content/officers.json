@@ -1,0 +1,50 @@
+[
+  {
+    "name": "PLACEHOLDER Name",
+    "role": "President",
+    "email": "",
+    "bio": "Short bio placeholder.",
+    "image": "/officers/president.jpg",
+    "order": 1
+  },
+  {
+    "name": "PLACEHOLDER Name",
+    "role": "Vice President / SORC Representative",
+    "email": "",
+    "bio": "Short bio placeholder.",
+    "image": "/officers/vp.jpg",
+    "order": 2
+  },
+  {
+    "name": "PLACEHOLDER Name",
+    "role": "Secretary",
+    "email": "",
+    "bio": "Short bio placeholder.",
+    "image": "/officers/secretary.jpg",
+    "order": 3
+  },
+  {
+    "name": "PLACEHOLDER Name",
+    "role": "Treasurer",
+    "email": "",
+    "bio": "Short bio placeholder.",
+    "image": "/officers/treasurer.jpg",
+    "order": 4
+  },
+  {
+    "name": "PLACEHOLDER Name",
+    "role": "Volunteer Officer",
+    "email": "",
+    "bio": "Short bio placeholder.",
+    "image": "/officers/volunteer.jpg",
+    "order": 5
+  },
+  {
+    "name": "PLACEHOLDER Faculty",
+    "role": "Faculty Advisor",
+    "email": "",
+    "bio": "Title/department placeholder.",
+    "image": "/officers/advisor.jpg",
+    "order": 99
+  }
+]
