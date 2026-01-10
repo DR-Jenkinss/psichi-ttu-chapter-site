@@ -3,20 +3,19 @@
   "shortName": "Psi Chi TTU",
   "universityName": "Texas Tech University",
   "departmentName": "Department of Psychological Sciences",
-  "generalEmail": "PLACEHOLDER@ttu.edu",
+  "generalEmail": "dyljenki@ttu.edu",
   "handbookUrl": "https://PLACEHOLDER/psi-chi-handbook.pdf",
-  "constitutionBylawsUrl": "https://PLACEHOLDER/constitution-bylaws.pdf",
+  "constitutionBylawsUrl": "https://docs.google.com/document/d/1DzPVqBUiNLHVX_dCzPm4J8Ar9_UE8YeoTL6Pq7hRScc/edit?usp=sharing",
   "psiChiNationalApplyUrl": "https://www.psichi.org/page/jointoday",
-  "psychClubJoinFormUrl": "https://docs.google.com/forms/d/e/PLACEHOLDER/viewform",
-  "statusFormUrl": "https://docs.google.com/forms/d/e/PLACEHOLDER/viewform",
-  "activitySuggestionFormUrl": "https://docs.google.com/forms/d/e/PLACEHOLDER/viewform",
+  "psychClubJoinFormUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfSfoeNhgSHLlFN3StR4HwDlAKp0jkgGLWK7f4NSRnIAnFeFA/viewform?usp=header",
+  "statusFormUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeRvar_u0eiymR7eLTODScBqB9D3I3PRKJNBhZjSyG8Sq2jKw/viewform?usp=header",
+  "activitySuggestionFormUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe3kSEcDE90-xFKObT1k6MUUwHN8CLtOsrgToZ7nOp0xSeg0g/viewform?usp=publish-editor",
   "pointsSheetUrl": "https://docs.google.com/spreadsheets/d/PLACEHOLDER/edit",
   "calendarEmbedUrl": "https://calendar.google.com/calendar/embed?src=PLACEHOLDER",
   "forumUrl": "https://forum.PLACEHOLDER.edu",
   "social": {
-    "instagram": "https://instagram.com/PLACEHOLDER",
-    "x": "https://x.com/PLACEHOLDER",
-    "facebook": "https://facebook.com/PLACEHOLDER",
-    "ttuConnect": "https://ttu.campuslabs.com/engage/organization/PLACEHOLDER"
+    "instagram": "https://www.instagram.com/ttu_psichi/?hl=en",
+    "GroupMe": "https://groupme.com/join_group/102794031/j1MOcjOV",
+
   }
 }
