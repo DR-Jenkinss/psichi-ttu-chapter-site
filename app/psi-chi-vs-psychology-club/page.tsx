@@ -1,6 +1,6 @@
 import settings from "@/content/settings.json";
 
-export function PsiChiVsClubSection() {
+export default function Page() {
   return (
     <section className="mx-auto max-w-5xl px-4 py-10">
       {/* Header */}
