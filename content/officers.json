@@ -1,50 +1,63 @@
 [
   {
-    "name": "PLACEHOLDER Name",
+    "name": "Dylan Jenkins",
     "role": "President",
-    "email": "",
-    "bio": "Short bio placeholder.",
-    "image": "/officers/president.jpg",
-    "order": 1
+    "classification": "Junior",
+    "major": "Psychological Sciences",
+    "minor": "Cognitive Science; Philosophy",
+    "email": "dyljenki@ttu.edu"
   },
   {
-    "name": "PLACEHOLDER Name",
+    "name": "Grace Hudson",
     "role": "Vice President / SORC Representative",
-    "email": "",
-    "bio": "Short bio placeholder.",
-    "image": "/officers/vp.jpg",
-    "order": 2
+    "classification": "Senior",
+    "major": "Psychological Sciences",
+    "minor": "Sociology; Forensic Science",
+    "email": "gracehud@ttu.edu"
   },
   {
-    "name": "PLACEHOLDER Name",
+    "name": "Mariana Almaraz",
     "role": "Secretary",
-    "email": "",
-    "bio": "Short bio placeholder.",
-    "image": "/officers/secretary.jpg",
-    "order": 3
+    "classification": "Senior",
+    "major": "Psychology",
+    "minor": "Criminology",
+    "email": "alm87230@ttu.edu"
   },
   {
-    "name": "PLACEHOLDER Name",
+    "name": "Christian Neufeld",
     "role": "Treasurer",
-    "email": "",
-    "bio": "Short bio placeholder.",
-    "image": "/officers/treasurer.jpg",
-    "order": 4
+    "classification": "Senior",
+    "major": "Psychological Sciences",
+    "minor": "General Business",
+    "email": "chneufel@ttu.edu"
   },
   {
-    "name": "PLACEHOLDER Name",
+    "name": "Sheena Amir",
     "role": "Volunteer Officer",
-    "email": "",
-    "bio": "Short bio placeholder.",
-    "image": "/officers/volunteer.jpg",
-    "order": 5
+    "classification": "Senior",
+    "major": "Psychology",
+    "minor": "Public Health",
+    "email": "shamir@ttu.edu"
   },
   {
-    "name": "PLACEHOLDER Faculty",
+    "name": "Camden Morehead",
+    "role": "Membership Chair",
+    "classification": "Junior",
+    "major": "Psychology",
+    "minor": "Criminology",
+    "email": "cmorehea@ttu.edu"
+  },
+  {
+    "name": "Arabella Arellano",
+    "role": "Social Chair",
+    "classification": "Senior",
+    "major": "Psychological Sciences",
+    "minor": "Legal Studies; Criminology",
+    "email": "ararella@ttu.edu"
+  },
+  {
+    "name": "Will Crescioni",
     "role": "Faculty Advisor",
-    "email": "",
-    "bio": "Title/department placeholder.",
-    "image": "/officers/advisor.jpg",
-    "order": 99
+    "email": "will.crescioni@ttu.edu"
   }
 ]

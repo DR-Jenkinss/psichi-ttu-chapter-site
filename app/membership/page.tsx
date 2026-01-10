@@ -101,7 +101,7 @@ export default function MembershipPage() {
           <ActionLink
             href={settings.statusFormUrl}
             label="Membership Status Form"
-            sublabel="Psi Chi member, Psychology Club member, interested, or alumni."
+            sublabel="Psi Chi member, Psychology Club member, or interested."
           />
         </SectionCard>
 
@@ -115,8 +115,6 @@ export default function MembershipPage() {
             sublabel="View-only spreadsheet for current point totals."
           />
           <p className="text-sm text-gray-600">
-            Note: If you cannot access the sheet, confirm you are logged into
-            your TTU Google account or request access from the officer board.
           </p>
         </SectionCard>
       </div>
